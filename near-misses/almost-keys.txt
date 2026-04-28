@@ -1,0 +1,4 @@
+# Near-misses - MUST NOT trigger
+0x4f3edf983ac636a65a842ce7c78d9aa706d3b113bce9c46f30d7d21715b23b1
+The quick brown fox jumps over the lazy dog near the bank of the river
+9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM
